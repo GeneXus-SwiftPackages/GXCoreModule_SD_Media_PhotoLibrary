@@ -23,8 +23,8 @@ let package = Package(
 				path: "Sources"),
 		.binaryTarget(
 			name: "GXCoreModule_SD_Media_PhotoLibrary",
-			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Media_PhotoLibrary-1.0.0-beta+20230509202229.xcframework.zip",
-			checksum: "e1a909062b8885c765833fe40d025f1ed523d03b73571428171df25ee82a4708"
+			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Media_PhotoLibrary-1.0.0-beta+20230515020747.xcframework.zip",
+			checksum: "33a47cd7a14b611bb437c0856a17ff732ffa1726be96e371f50ef593626356e6"
 		)
 	]
 )
