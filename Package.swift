@@ -10,8 +10,8 @@ let package = Package(
 			targets: ["GXCoreModule_SD_Media_PhotoLibraryWrapper"])
 	],
 	dependencies: [
-		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreUI.git", exact: "2.0.0-beta.28"),
-		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreUIPhotoLibrary.git", exact: "2.0.0-beta.28")
+		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreUI.git", exact: "2.0.0-beta.29"),
+		.package(url: "https://github.com/GeneXus-SwiftPackages/GXCoreUIPhotoLibrary.git", exact: "2.0.0-beta.29")
 	],
 	targets: [
 		.target(name: "GXCoreModule_SD_Media_PhotoLibraryWrapper",
@@ -23,8 +23,8 @@ let package = Package(
 				path: "Sources"),
 		.binaryTarget(
 			name: "GXCoreModule_SD_Media_PhotoLibrary",
-			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Media_PhotoLibrary-2.0.0-beta.28.xcframework.zip",
-			checksum: "cf85af74764c1c1165323fea3f2113a0a41a3f0749575c1f4f7b6dc4b9706e44"
+			url: "https://pkgs.genexus.dev/iOS/beta/GXCoreModule_SD_Media_PhotoLibrary-2.0.0-beta.29.xcframework.zip",
+			checksum: "3244849d74647d4c127dd970e2cdca9439b38a60cec5ad15b71ce42895a2440b"
 		)
 	]
 )
